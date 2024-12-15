@@ -1,4 +1,5 @@
 vless://69814381-8366-4774-8bac-2dcee5a37eff@bg.com:80?path=%2F%3Fed%3D2056&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g9h.com&type=ws#%F0%9F%93%A1%40MPFUSA
+
 vless://MPFUSA@@MPFUSA:443?security=none&encryption=none&headerType=none&type=tcp#%D8%AD%D8%A7%D9%85%DB%8C%28%28%F0%9F%93%A1%40MPFUSA%29%29%F0%9F%91%87%D9%84%DB%8C%D8%B3%D8%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7
 vless://0e626bc4-44a4-4e24-baa9-604f5387db80@84.47.233.102:20014?security=none&encryption=none&headerType=none&type=tcp#vless-FR%F0%9F%93%A1%40MPFUSA
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@104.26.7.214:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan.sahel.us.kg&type=ws&sni=rayan.sahel.us.kg#vless-CA%F0%9F%93%A1%40MPFUSA
