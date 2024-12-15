@@ -1,3 +1,2 @@
 vless://69814381-8366-4774-8bac-2dcee5a37eff@bg.com:80?path=%2F%3Fed%3D2056&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g9h.com&type=ws#%F0%9F%93%A1%40MPFUSA
-
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@visa.org:2052?path=%2FVPNCUSTOMIZE%2CVPNCUSTOMIZE%3Fed&security=none&encryption=none&host=aparat.com.bing.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.netrag.com.px.com.s95017.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.h99.ddns-ip.net.&type=ws#%F0%9F%93%A1%40MPFUSA
